@@ -6,3 +6,11 @@
  Second, we detect the surges and plunges by the percentage difference of volume weighted  average price (VWAP) with a time delay (in seconds).
  
  The jupyter notebook explains itself.
+
+Detect surge of MDT/BTC at 2023-06-29 07:27:16:
+```
+Trading pair: MDTBTC, "is skyrocketing.
+",                       Price: 1.52e-06, Price baseline: 1.49e-06
+```
+![image](https://github.com/ace314/Crypto-surges-plunges-detection/assets/26135571/0485232c-936b-4a47-80dd-df9a03844de9)
+
