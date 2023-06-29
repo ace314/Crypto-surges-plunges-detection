@@ -7,7 +7,7 @@
  
  The jupyter notebook explains itself.
 
-Detect surge of MDT/BTC at 2023-06-29 07:27:16:
+Detect surge of MDT/BTC at 2023-06-29 07:27:16 (UTC):
 ```
 Trading pair: MDTBTC, "is skyrocketing.
 ",                       Price: 1.52e-06, Price baseline: 1.49e-06
