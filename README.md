@@ -1,2 +1,2 @@
 # Crypto-surges-plunges-detection
- detect surges and plunges of crytpo in Binance using pandas
+ The goal of this project is to detect surges and plunges of cryptocurrency in Binance. The jupyter notebook explain itself.
