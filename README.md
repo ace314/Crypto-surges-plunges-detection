@@ -2,6 +2,7 @@
 The goal of this project is to detect surges and plunges of cryptocurrency in Binance. 
 
 Decide which trading pairs to consider with a volume threshold (in USDT). This can guarantee the liquidity of the candidate pairs.
+
  ![image](https://github.com/ace314/Crypto-surges-plunges-detection/assets/26135571/31cfb7f6-5239-472c-ace5-fd886514a29c)
 
 Detect the surges and plunges by the percentage difference of volume weighted  average price (VWAP) with a time delay (in seconds).
